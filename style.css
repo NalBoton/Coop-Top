@@ -25,7 +25,7 @@ body {
 #Rosto {
     position: absolute;
     top: 20px;
-    left: 10px;
+    left: 3px;
 }
 
 #Rosto img {
@@ -41,7 +41,7 @@ body {
 #vers {
     position: absolute;
     top: 20px;
-    right: 10px;
+    right: 3px;
     max-width: 440px;
     text-align: right;
     font-size: 14px;
@@ -91,7 +91,7 @@ button:hover {
     color: white;
     font-size: 26px;
     text-align: center;
-    padding: 20px;
+    padding: 5px;
     background-color: #164e76ce;
     border-radius: 12px;
     opacity: 0;
